@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kurtkintzbtc.
 - 👀 I’m interested in Bitcoin Lightning Network.
-- 🌱 I’m currently learning how to use github
+- 🌱 I’m currently learning how to use github.
 - 💞️ I’m looking to collaborate on how to stack sats
 - 📫 How to reach me PM via https://twitter.com/kintz_kurt
 <!---
